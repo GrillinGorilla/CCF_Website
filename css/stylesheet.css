@@ -139,6 +139,8 @@ a:link {
 
 #page_footer
 {
+    position: fixed;
+    bottom: 0;
     display: inline-block;
     text-align: center;
     background-color: black;
