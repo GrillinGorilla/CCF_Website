@@ -8,11 +8,6 @@ body
     overflow-x: hidden; /* Disable horizontal scroll */
 }
 
-li
-{
-    margin: 3px 0px 3px 0px;
-}
-
 a:link {
     color: mediumblue; 
     background-color: transparent; 
